@@ -1,0 +1,22 @@
+
+[config-begin]
+
+    Outputdir  = OUTPUTDIR
+    Outputfile = OUTPUTFILE
+    Lumi       = LUMINOSITY
+    
+    Testmode   = TESTMODE 
+
+    Maxchilds  = 4
+    
+    Samplesdir = SAMPLESDIR
+
+[config-end]
+
+
+[inputfiles-begin]
+
+INPUTFILE_INFO
+ 
+[inputfiles-end]
+
